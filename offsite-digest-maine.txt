@@ -1,0 +1,49 @@
+# ME Offsite Digests — Maine Weekend Last of October, 2025
+Compiled from NPS records on October 2025 date range: 2025-10-25 to 2025-10-26 (final weekend of October).
+
+## Part 1 — Maine Camping Comparison (all NPS sites in Maine)
+
+National Parks listed in Maine (as of latest records):
+
+### 1. Acadia National Park (acad) — BEST CHOICE for camping
+- Designation: National Park. Activities include: Camping, Group Camping.
+- Amenities confirmed: Blackwoods Campground has flush toilets, potable water, food storage lockers.
+- Campgrounds: Blackwoods (open early May to mid-Oct, 281 sites, reservations via Recreation.gov), Seawall (open to Columbus Day, 202 sites), Schoodic Woods (open to Columbus Day, 89 sites).
+- Alerts: "Eastern Section of Beech Mountain Loop Trail Closed for Repairs" (no impact on campgrounds). Acadia events calendar returned 0 for the weekend.
+- Visitor centers: Hulls Cove Visitor Center, Sieur de Monts Nature Center, Acadia Gateway Center (closes Oct 12), Islesford Historical Museum (closes Sep 19), Schoodic Institute Welcome Center.
+
+### 2. Katahdin Woods and Waters National Monument (kaww) — second choice / underdog
+- Designation: National Monument. Activities include: Camping (backcountry/front-country).
+- No dedicated NPS campground listing; camping is backcountry — no confirmed flush toilets/potable water/food storage amenities.
+- Hours: open year-round. Alerts: "Upcoming Closures - Katahdin Loop Road and North Gate" (Nov 23, 2026 — late October roads open). "Hunting Season Begins." Increased logging traffic on Swift Brook Road.
+- Visitor center: Tekakapimək Contact Station (open through mid-Oct, restrooms + water fountain).
+
+### 3. Maine Acadian Culture (maac) — NOT suitable for camping
+- No campgrounds.
+
+### 4. Appalachian National Scenic Trail (appa) — partial camping opportunity
+- Northern terminus at Mount Katahdin in Baxter State Park; trail camping possible but park may be closed.
+
+### 5. Roosevelt Campobello International Park — NOT suitable for camping
+- Activities: Museum Exhibits only.
+
+### 6. Frances Perkins National Monument — NOT suitable for camping
+- No activities listed.
+
+### 7. Saint Croix Island International Historic Site — NOT suitable for camping
+- Visitor center closed in winter.
+
+### Verdict: which sites truly offer camping at late October
+- Acadia: YES — blackwoods, seawall, schoodic woods all run through Columbus Day (mid-October); amenities confirmed: flush toilets, potable water, food storage lockers.
+- Katahdin Woods and Waters: camping open backcountry; no amenities confirmed — best as rustic backcountry.
+
+## Part 2 — IP Whois Check for 140.82.112.25
+source: ARIN WHOIS data (2025-06-15) for IP 140.82.112.25 / 140.82.112.0/20.
+- NetRange: 140.82.112.0 - 140.82.127.255
+- Organization: GitHub, Inc. (GITHU), San Francisco, CA.
+- The signup page is hosted on GitHub Pages — this IP range is GitHub's own infrastructure (DDoS/security abuse handled by GitHub Ops).
+- Conclusion: 140.82.112.25 belongs to GitHub's Direct Allocation network — GitHub infrastructure itself, not a generic threat or something else we depend on.
+
+## Recommendation
+- Go to Acadia National Park — Blackwoods Campground (early reservation, recreation.gov).
+- Fallback: Katahdin Woods and Waters for backcountry camping if amenities required.
